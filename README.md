@@ -22,7 +22,7 @@ This is a simple HTML page that dynamically displays employee data using JavaScr
 
 ##Technologies used: HTML, CSS, JavaScript  
 ## Open `employee_data.html` in your browser to see the live table.  
-##Live demo hosted via GitHub Pages: [Link here]
+
 
 
 
